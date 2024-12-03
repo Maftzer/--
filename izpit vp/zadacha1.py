@@ -25,6 +25,7 @@ for number in random_list:
 print("Broq na chislata s edinici koito se delqt na 2: ", count)
 print("Proizvedenieto na chislata, po-malki ot nula i chetni: ", mult)
 
+print("az")
 
 random_list1 = [item for item in random_list if item > n]
 
